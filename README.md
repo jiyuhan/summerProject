@@ -18,10 +18,10 @@
   <li><a href="http://www.uctronics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/0/b0023_3.jpg">OV7670 Camera</a></li>
   <li><a href="https://cdn-learn.adafruit.com/assets/assets/000/028/633/medium800/adafruit_products_2829_iso_ORIG.jpg?1447887201">Adafruit Feather 32u4 Bluefruit LE</a></li>
   <li>Intel Edison with Mini Breakout</li>
-  <li>ArduCam Mini 2MP (OV2560)</li>
+  <li>ArduCam Mini 2MP (OV2640)</li>
 </ul>
 <h4>• progress update log</h4>
-<p><i>5/25/2017 - I had the ArduCam Mini 2MP OV2560 working. The source code is <a href="">here</a>(not up yet).</i></p>
-<p><i>5/27/2017 - I am still trying to set up the environment since my programmer USBtiny is not working with ATMEL Studio 7. Also, I found out my Intel Edison had a power supply problem. I am going to ask Intel for a new one. After I return my USBtiny and purchase the ATMEL MKII, I am planning to write some code for ATmega88PA_OV7670_Serial in C. Not so much progress today, but got some things organized, looking good. Tomorrow, I am going to push the code I had for OV2560 on Arduino.</i></p>
+<p><i>5/25/2017 - I had the ArduCam Mini 2MP OV2640 working. The source code is <a href="">here</a>(not up yet).</i></p>
+<p><i>5/27/2017 - I am still trying to set up the environment since my programmer USBtiny is not working with ATMEL Studio 7. Also, I found out my Intel Edison had a power supply problem. I am going to ask Intel for a new one. After I return my USBtiny and purchase the ATMEL MKII, I am planning to write some code for ATmega88PA_OV7670_Serial in C. Not so much progress today, but got some things organized, looking good. Tomorrow, I am going to push the code I had for OV2640 on Arduino.</i></p>
 <h3>Disclaimer</h3>
 <p>I do not own any of the images, links above. I searched and picked them because they were the most descriptive to the products I mentioned. And I checked very carefully that they were not from suspicious websites, but should you find your device at risk after visiting the sites, the author will not be accountable for the circumstances.</p>
