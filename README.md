@@ -16,7 +16,7 @@
 <h4>stuff purchased</h4>
 <ul>
   <li><a href="http://www.uctronics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/0/b0023_3.jpg">OV7670 Camera</a></li>
-  <li>Adafruit Feather 32u4 BLE</li>
+  <li><a href="https://cdn-learn.adafruit.com/assets/assets/000/028/633/medium800/adafruit_products_2829_iso_ORIG.jpg?1447887201">Adafruit Feather 32u4 Bluefruit LE</a></li>
   <li>Intel Edison with Mini Breakout</li>
   <li>ArduCam Mini 2MP (OV2560)</li>
 </ul>
