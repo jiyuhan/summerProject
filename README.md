@@ -13,14 +13,14 @@
 <h4>Power for Image Processing</h4>
 <p>I am not talking about just image processing here, also some pattern matching and machine learning. It definitely will chew up a lot of memory for my Intel Edison, and I really don't think it would be a great idea to even have it connected to four cameras the same time. If any part of my plan with Edison did not pan out well, I would have to use my computer's graphic card, I guess (assuming all modern computers have 2.4GHz, aka, WiFi).</p>
 <h3>§ Current Status<h3>
-<h4>stuff purchased</h4>
+<h4>•stuff purchased</h4>
 <ul>
   <li><a href="http://www.uctronics.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/0/b0023_3.jpg">OV7670 Camera</a></li>
   <li><a href="https://cdn-learn.adafruit.com/assets/assets/000/028/633/medium800/adafruit_products_2829_iso_ORIG.jpg?1447887201">Adafruit Feather 32u4 Bluefruit LE</a></li>
   <li>Intel Edison with Mini Breakout</li>
   <li>ArduCam Mini 2MP (OV2560)</li>
 </ul>
-<h4>progress update log</h4>
+<h4>• progress update log</h4>
 <p><i>5/25/2017 - I had the ArduCam Mini 2MP OV2560 working. The source code is <a href="">here</a>(not up yet).</i></p>
 <p><i>5/27/2017 - I am still trying to set up the environment since my programmer USBtiny is not working with ATMEL Studio 7. After I purchase the ATMEL MKII, I am planning to write some code for ATmega88PA_OV7670_Serial in C.</i></p>
 <h3>Disclaimer</h3>
