@@ -14,7 +14,7 @@
 
 /**************************************************************
  * Thomas Han did not write this, but he took Lee’s           *
- * work from his library, so it can work with my project.     *
+ * work from his library, so it can work with his project.     *
  **************************************************************/
 
 #include <UTFT_SPI.h>
