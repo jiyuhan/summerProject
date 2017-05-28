@@ -8,9 +8,9 @@
 <h3>§ Mechanism</h3>
 <p>Vehicles communicate with the unified controller through BLE (Bluetooth Low Energy) and IEEE 802.11n 2.4GHz. Image signals will be transmitted via 2.4GHz because of its high speed. Vehicle movement commands will be sent via BLE. <b>Image processing</b> will be done by <b>OpenCV</b> if Intel Edison had enough memory.</p>
 <h3>§ Potential technical hurdles</h3>
-<h4>HO Scaling</h4>
+<h4>• HO Scaling</h4>
 <p>Since I want to integrate my system perfectly with current HO scaled train modules, it would be <b>hard</b> to have my vehicles running on the same scaling. HO scale is 1:87.1, which means my finished vehicles would be around the same size as an old style <a href="https://s-media-cache-ak0.pinimg.com/originals/0f/e7/19/0fe71911d7171c289f0290b6d3489111.jpg">match box</a>. This is hard, and it will too bring many mechanical problems since I am not terribly familiar with mechanical design.</p>
-<h4>Power for Image Processing</h4>
+<h4>• Power for Image Processing</h4>
 <p>I am not talking about just image processing here, also some pattern matching and machine learning. It definitely will chew up a lot of memory for my Intel Edison, and I really don't think it would be a great idea to even have it connected to four cameras the same time. If any part of my plan with Edison did not pan out well, I would have to use my computer's graphic card, I guess (assuming all modern computers have 2.4GHz, aka, WiFi).</p>
 <h3>§ Current Status<h3>
 <h4>• stuff purchased</h4>
