@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ArduCamReader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ArduCamReader_jar</output-path>
+    <root id="archive" name="ArduCamReader.jar">
+      <element id="module-output" name="ArduCamReader" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jSSC-2.8.0-Release/jssc.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
