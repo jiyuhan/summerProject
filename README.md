@@ -21,7 +21,8 @@
   <li><a href="http://www.arducam.com/wp-content/uploads/2015/03/ArduCAM_mini-1.jpg">ArduCam Mini 2MP (OV2640)</a></li>
 </ul>
 <h4>• progress update log</h4>
-<p><i>5/25/2017 - I had the ArduCam Mini 2MP OV2640 working. The source code is <a href="https://github.com/jiyuhan/summerProject/blob/master/arduino_arducam_mini_2mp/ov2640_2mp_serial_fifo.ino">here</a>(not up yet).</i></p>
+<p><i>5/25/2017 - I had the ArduCam Mini 2MP OV2640 working. The source code is <a href="https://github.com/jiyuhan/summerProject/blob/master/arduino_arducam_mini_2mp/ov2640_2mp_serial_fifo.ino">here</a>.</i></p>
 <p><i>5/27/2017 - I am still trying to set up the environment since my programmer USBtiny is not working with ATMEL Studio 7. Also, I found out my Intel Edison had a power supply problem. I am going to ask Intel for a new one. After I return my USBtiny and purchase the ATMEL MKII, I am planning to write some code for ATmega88PA_OV7670_Serial in C. Not so much progress today, but got some things organized, looking good. Tomorrow, I am going to push the code I had for OV2640 on Arduino.</i></p>
+<p><i>5/28/2017 - The code for OV2640 is up. Try <a href="https://github.com/jiyuhan/summerProject/blob/master/arduino_arducam_mini_2mp/ov2640_2mp_serial_fifo.ino">this link</a>. Not much done today, waiting on some parts.</i></p>
 <h3>Disclaimer</h3>
 <p>I do not own any of the images, links above. I searched and picked them because they were the most descriptive to the products I mentioned. And I checked very carefully that they were not from suspicious websites, but should you find your device at risk after visiting the sites, the author will not be accountable for the circumstances.</p>
